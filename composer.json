@@ -1,0 +1,9 @@
+{
+    "name": "merchant/mv-slider",
+    "autoload": {
+        "psr-4": {
+            "Merchant\\MvSlider\\": "src/"
+        }
+    },
+    "require": {}
+}
